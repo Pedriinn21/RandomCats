@@ -68,6 +68,7 @@
                 console.error('Houve um problema com a operação fetch:', erro);
             }
         }
+        
 
         obterImagemAleatoriaGato();
     </script>
